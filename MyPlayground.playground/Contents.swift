@@ -24,3 +24,4 @@ var b = " haircut "
 var c = "two bits"
 var d = a+b+c
 print(d)
+
