@@ -38,3 +38,8 @@ var numberTwo = 7
 var comparison = numberOne>numberTwo
 
 print(comparison)
+
+var quest = "Two plus two"
+var answer = " equals five"
+var tru = quest == answer
+print(tru)
